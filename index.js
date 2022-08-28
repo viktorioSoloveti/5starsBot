@@ -1,7 +1,7 @@
 const { Telegraf, Markup } = require("telegraf");
 
 // Создать бота с полученным ключом
-const bot = new Telegraf("5478304828:AAHCiLVjF8NWY1Ayb_5VzgmfedX6Iuhb4ac");
+const bot = new Telegraf("your token here!");
 
 // Работа с данными
 let isStarted = false;
